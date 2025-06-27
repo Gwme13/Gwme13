@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Gwme13!👋
+I'm a Computer Science engineer and an Artificial Intelligence and Data Engineering student at the University of Pisa.
 
-<!--
-**Gwme13/Gwme13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contacts 🌐
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-gemelli/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:gemellimattia8gmail.com)
 
-Here are some ideas to get you started:
+## Stats  📊
+[![Gwme13's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gwme13&show_icons=true&theme=transparent&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gwme13&layout=compact&hide=Ruby&theme=transparent)
+
