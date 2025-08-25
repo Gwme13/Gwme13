@@ -1,5 +1,5 @@
 ## Hi there, I'm Gwme13!👋
-I'm a Computer Science engineer and an Artificial Intelligence and Data Engineering student at the University of Pisa.
+I am completing an M.Sc. in Artificial Intelligence and Data Engineering at the University of Pisa, with a background in Computer Engineering, a passion for web development, and a drive to apply problem-solving skills in collaborative, creative teams.
 
 ## Contacts 🌐
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mattia-gemelli/)
