@@ -2,7 +2,8 @@
 
 # Mattia Gemelli
 
-**AI & Data Engineer** · Pisa, Italia
+**Software Engineer · AI & Data Engineering**  
+Pisa, Italy
 
 [LinkedIn](https://linkedin.com/in/mattia-gemelli) · [Email](mailto:gemellimattia8@gmail.com)
 
@@ -10,31 +11,60 @@
 
 ---
 
-### 🇬🇧
+### English
 
-I work as an **AI & Data Engineer** at a boutique software house in Pisa, where every product is designed and built end-to-end around the client rather than off a template. I focus on the AI side of that work: designing and shipping systems built on AI or that integrate it deeply, including **chatbots, agentic AI, RAG, and computer vision**, taking each one from architecture through to deployment. My day-to-day stack is **Python, FastAPI, LangChain/LangGraph, MongoDB, and Docker**.
+Software Engineer focused on AI & Data Engineering, currently working at a software house in Pisa that develops custom software solutions and integrates heterogeneous systems and data, with projects spanning data analysis, geospatial systems, and process automation.
 
-I hold a master's degree in **Artificial Intelligence and Data Engineering** (110/110 cum laude, University of Pisa) and a bachelor's in Electronic and Computer Engineering (110/110 cum laude, University of Ferrara).
+My work is mainly focused on systems that bring AI into production: conversational and agentic systems, retrieval pipelines, computer vision components, predictive models, and the backend and data infrastructure they run on. Day to day, that means working across architecture, backend services, data integration, data infrastructure, and deployment, using technologies such as Python, FastAPI, LangChain/LangGraph, MongoDB, Qdrant, Neo4j, and Docker, chosen according to the problem rather than fixed in advance.
 
-What drives me isn't any single tool, it's AI as a whole. I use frontier models and agents like Claude Code and Codex not just to build applications, but to develop **Skills**, custom capability files that make these agents more useful for my own daily work. I'm just as into open-weights models on consumer hardware, benchmarking them against frontier models on tasks that actually matter to me, chasing the right balance of quantization, context length, latency, and answer quality.
+Outside client work, I follow local and open-weight models and the trade-offs that come with running them: context length, latency, inference cost, quantization, and the point at which privacy or operational requirements push a system toward self-hosting.
 
-### 🇮🇹
+I use Claude Code and Codex daily to speed up implementation, refactoring, code exploration, and repetitive development tasks, inside spec-driven workflows where architecture, requirements, and test strategy stay my direct responsibility. AI supports and accelerates implementation, while design decisions and software quality remain mine.
 
-Lavoro come **AI & Data Engineer** presso una software house artigianale a Pisa, dove ogni prodotto viene progettato e sviluppato end-to-end su misura del cliente, non su un template. Il mio ruolo è la parte AI di questo lavoro: progettare e portare in produzione sistemi basati sull'AI o che la integrano profondamente, tra cui **chatbot, agentic AI, RAG e computer vision**, seguendoli dall'architettura fino al deployment. Lo stack che uso ogni giorno è **Python, FastAPI, LangChain/LangGraph, MongoDB e Docker**.
+The repositories here complement my professional work by showing the broader technical foundation developed during my academic path, spanning Information Retrieval, Deep Learning, graph-based systems, High-Performance Computing, and GPU programming in C++/CUDA.
 
-Ho conseguito la laurea magistrale in **Artificial Intelligence and Data Engineering** (110 e lode, Università di Pisa) e la laurea triennale in Ingegneria Elettronica e Informatica (110 e lode, Università degli Studi di Ferrara).
+MSc in Artificial Intelligence and Data Engineering, University of Pisa (110/110 cum laude).  
+BSc in Electronic and Computer Engineering, University of Ferrara (110/110 cum laude).
 
-Ciò che mi appassiona non è un singolo strumento, ma l'intelligenza artificiale nel suo complesso. Sfrutto modelli di frontiera e agenti come Claude Code e Codex non solo per costruire applicativi, ma anche per sviluppare **Skill**, file di capacità personalizzati che rendono questi agenti più utili nel mio lavoro quotidiano. Allo stesso modo mi appassiona testare modelli open-weights su hardware consumer, confrontandoli con quelli di frontiera su benchmark costruiti sul mio lavoro reale, cercando il giusto equilibrio tra quantizzazione, context length, latenza e qualità della risposta.
+---
+
+### Italiano
+
+Software Engineer specializzato in AI & Data Engineering, attualmente in una software house di Pisa che sviluppa soluzioni software su misura e integra sistemi e dati eterogenei, con progetti che spaziano tra data analysis, sistemi geospaziali e automazione dei processi.
+
+Il mio lavoro è focalizzato soprattutto su sistemi che portano l'AI in produzione: sistemi conversazionali e agentici, pipeline di retrieval, componenti di computer vision, modelli predittivi e l'infrastruttura backend e dati su cui si appoggiano. Nella pratica significa lavorare su architettura, servizi backend, integrazione dei dati, infrastruttura dati e deployment, utilizzando tecnologie come Python, FastAPI, LangChain/LangGraph, MongoDB, Qdrant, Neo4j e Docker, scelte di volta in volta in funzione del problema.
+
+Al di fuori del lavoro con i clienti seguo i modelli locali e open-weight e i trade-off che comportano: context length, latenza, costo di inferenza, quantizzazione e il punto in cui requisiti di privacy o operativi spingono un sistema verso il self-hosting.
+
+Uso Claude Code e Codex ogni giorno per velocizzare implementazione, refactoring, esplorazione della codebase e attività di sviluppo ripetitive, dentro workflow spec-driven in cui architettura, requisiti e test strategy restano sotto la mia diretta responsabilità. L'AI supporta e accelera l'implementazione, mentre le decisioni progettuali e la qualità del software restano mie.
+
+I repository qui raccolti completano la mia esperienza professionale mostrando le fondamenta tecniche sviluppate durante il percorso accademico, tra Information Retrieval, Deep Learning, sistemi graph-based, High-Performance Computing e programmazione GPU in C++/CUDA.
+
+Laurea magistrale in Artificial Intelligence and Data Engineering, Università di Pisa (110/110 e lode).  
+Laurea triennale in Ingegneria Elettronica e Informatica, Università degli Studi di Ferrara (110/110 e lode).
+
+---
+
+### Featured work
+
+- **Artillery Duel**: Python project developed through a spec-driven workflow, with automated tests, procedural terrain, physics simulation, and a heuristic opponent.
+- **Computer Architecture**: CPU and GPU performance optimization projects using C++, CUDA, profiling, and cuBLAS.
+- **MS MARCO Information Retrieval**: Information Retrieval system with inverted indexing, BM25, TF-IDF, evaluation metrics, and statistical comparison.
+- **Multi-Task Learning with PyTorch**: Comparison of Single-Task Learning, Hard Parameter Sharing, and Multi-Task approaches based on Cross-Stitch Networks.
+- **GastronoMate**: Full-stack social platform built with Spring Boot, MongoDB, and Neo4j, with asynchronous synchronization and graph-based relationships.
 
 ---
 
 <div align="center">
 
 ![GitHub stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Gwme13&show_icons=true&theme=default&hide_title=true&hide_border=true)
+
 ![Top languages](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Gwme13&layout=compact&hide_border=true)
 
 </div>
 
 ---
 
-<sub>Python · FastAPI · LangChain / LangGraph · RAG & GraphRAG · MCP / tool use · Computer Vision · PyTorch · Hugging Face · Claude Code · Codex · OpenCode · Spec Kit · OpenSpec · Docker · Qdrant · Neo4j · MongoDB · MySQL · Ollama · vLLM</sub>
+<sub>
+Python · FastAPI · AI Agents · RAG / GraphRAG · Information Retrieval · LLM Tool Use · MCP · Computer Vision · PyTorch · LangChain / LangGraph · Qdrant · Neo4j · MongoDB · MySQL · Docker · C++ · CUDA · Ollama · vLLM · Claude Code · Codex · OpenSpec
+</sub>
