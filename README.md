@@ -17,7 +17,7 @@ Software Engineer focused on AI & Data Engineering, currently working at a softw
 
 My work is mainly focused on systems that bring AI into production: conversational and agentic systems, retrieval pipelines, computer vision components, predictive models, and the backend and data infrastructure they run on. Day to day, that means working across architecture, backend services, data integration, data infrastructure, and deployment, using technologies such as Python, FastAPI, LangChain/LangGraph, MongoDB, Qdrant, Neo4j, and Docker, chosen according to the problem rather than fixed in advance.
 
-Outside client work, I follow local and open-weight models and the trade-offs that come with running them: context length, latency, inference cost, quantization, and the point at which privacy or operational requirements push a system toward self-hosting.
+I also follow local and open-weight models and the trade-offs that come with running them: context length, latency, inference cost, quantization, and the point at which privacy or operational requirements push a system toward self-hosting.
 
 I use Claude Code and Codex daily to speed up implementation, refactoring, code exploration, and repetitive development tasks, inside spec-driven workflows where architecture, requirements, and test strategy stay my direct responsibility. AI supports and accelerates implementation, while design decisions and software quality remain mine.
 
@@ -34,7 +34,7 @@ Software Engineer specializzato in AI & Data Engineering, attualmente in una sof
 
 Il mio lavoro è focalizzato soprattutto su sistemi che portano l'AI in produzione: sistemi conversazionali e agentici, pipeline di retrieval, componenti di computer vision, modelli predittivi e l'infrastruttura backend e dati su cui si appoggiano. Nella pratica significa lavorare su architettura, servizi backend, integrazione dei dati, infrastruttura dati e deployment, utilizzando tecnologie come Python, FastAPI, LangChain/LangGraph, MongoDB, Qdrant, Neo4j e Docker, scelte di volta in volta in funzione del problema.
 
-Al di fuori del lavoro con i clienti seguo i modelli locali e open-weight e i trade-off che comportano: context length, latenza, costo di inferenza, quantizzazione e il punto in cui requisiti di privacy o operativi spingono un sistema verso il self-hosting.
+Mi interesso anche di modelli locali e open-weight, esplorando i trade-off tra context length, latenza, costo di inferenza, quantizzazione e privacy, e i casi in cui conviene puntare al self-hosting.
 
 Uso Claude Code e Codex ogni giorno per velocizzare implementazione, refactoring, esplorazione della codebase e attività di sviluppo ripetitive, dentro workflow spec-driven in cui architettura, requisiti e test strategy restano sotto la mia diretta responsabilità. L'AI supporta e accelera l'implementazione, mentre le decisioni progettuali e la qualità del software restano mie.
 
@@ -52,6 +52,14 @@ Laurea triennale in Ingegneria Elettronica e Informatica, Università degli Stud
 - **MS MARCO Information Retrieval**: Information Retrieval system with inverted indexing, BM25, TF-IDF, evaluation metrics, and statistical comparison.
 - **Multi-Task Learning with PyTorch**: Comparison of Single-Task Learning, Hard Parameter Sharing, and Multi-Task approaches based on Cross-Stitch Networks.
 - **GastronoMate**: Full-stack social platform built with Spring Boot, MongoDB, and Neo4j, with asynchronous synchronization and graph-based relationships.
+
+### Progetti in evidenza
+
+- **Artillery Duel**: progetto Python sviluppato attraverso un workflow spec-driven, con test automatizzati, terreno procedurale, simulazione fisica e un avversario basato su euristiche.
+- **Computer Architecture**: progetti di ottimizzazione delle prestazioni su CPU e GPU con C++, CUDA, profiling e cuBLAS.
+- **MS MARCO Information Retrieval**: sistema di Information Retrieval con indicizzazione inversa, BM25, TF-IDF, metriche di valutazione e confronto statistico.
+- **Multi-Task Learning with PyTorch**: confronto tra Single-Task Learning, Hard Parameter Sharing e approcci Multi-Task basati su Cross-Stitch Networks.
+- **GastronoMate**: piattaforma social full-stack sviluppata con Spring Boot, MongoDB e Neo4j, con sincronizzazione asincrona e relazioni graph-based.
 
 ---
 
