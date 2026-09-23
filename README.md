@@ -1,78 +1,98 @@
-<div align="center">
+# Hi, I'm Mattia Gemelli 👋
 
-# Mattia Gemelli
+### Software Engineer · AI & Backend
 
-**Software Engineer · AI & Data Engineering**  
-Pisa, Italy
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&vCenter=true&width=520&lines=Your+friendly+neighborhood+engineer+%F0%9F%95%B7%EF%B8%8F)](https://github.com/Gwme13)
 
-[LinkedIn](https://linkedin.com/in/mattia-gemelli) · [Email](mailto:gemellimattia8@gmail.com)
+I build **production AI systems**, including LLM agents, RAG pipelines and ML models, and the **Python / FastAPI backends** that run them. Outside of work, I'm still reading about AI and whatever's new in tech.
 
-</div>
+💼 Software Engineer at [3logic MK](https://www.3logic.it/), Pisa<br>
+🎓 MSc in AI & Data Engineering, University of Pisa (**110/110 cum laude**)<br>
+📫 [LinkedIn](https://linkedin.com/in/mattia-gemelli) · [Email](mailto:gemellimattia8@gmail.com)
 
----
+### What I work on
 
-### English
+- **Backend development**: design and implementation of REST APIs and backend services
+- **AI systems**: LLM-based agents, conversational assistants and retrieval-augmented generation (RAG) pipelines
+- **Machine learning**: computer vision and predictive models, from training to integration into production services
+- **Local LLMs**: deploying open-weight models when privacy, cost or latency requirements call for it
 
-Software Engineer focused on AI & Data Engineering, currently working at a software house in Pisa that develops custom software solutions and integrates heterogeneous systems and data, with projects spanning data analysis, geospatial systems, and process automation.
+### How I build with AI
 
-My work is mainly focused on systems that bring AI into production: conversational and agentic systems, retrieval pipelines, computer vision components, predictive models, and the backend and data infrastructure they run on. Day to day, that means working across architecture, backend services, data integration, data infrastructure, and deployment, using technologies such as Python, FastAPI, LangChain/LangGraph, MongoDB, Qdrant, Neo4j, and Docker, chosen according to the problem rather than fixed in advance.
+> *The problem is not the problem. Savvy?* 🏴‍☠️
 
-I also follow local and open-weight models and the trade-offs that come with running them: context length, latency, inference cost, quantization, and the point at which privacy or operational requirements push a system toward self-hosting.
+Using AI to write code isn't the problem. The problem is **how** you use it. Agents can write code fast, but they can't tell you whether it's the right code. That's why I follow a **spec-driven** approach: spec first, code second. Before any code is written, I define requirements, design decisions and acceptance criteria. That spec becomes the contract.
 
-I use Claude Code and Codex daily to speed up implementation, refactoring, code exploration, and repetitive development tasks, inside spec-driven workflows where architecture, requirements, and test strategy stay my direct responsibility. AI supports and accelerates implementation, while design decisions and software quality remain mine.
+Coding agents such as Claude Code and Codex implement against it, every change is validated against it, and I keep ownership of architecture and quality.
 
-The repositories here complement my professional work by showing the broader technical foundation developed during my academic path, spanning Information Retrieval, Deep Learning, graph-based systems, High-Performance Computing, and GPU programming in C++/CUDA.
+```
+spec → design → tasks → implementation → tests → review
+```
 
-MSc in Artificial Intelligence and Data Engineering, University of Pisa (110/110 cum laude).  
-BSc in Electronic and Computer Engineering, University of Ferrara (110/110 cum laude).
+Tools change, but the method stays the same.
 
----
+### Tech stack
 
-### Italiano
+**Languages**<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-Software Engineer specializzato in AI & Data Engineering, attualmente in una software house di Pisa che sviluppa soluzioni software su misura e integra sistemi e dati eterogenei, con progetti che spaziano tra data analysis, sistemi geospaziali e automazione dei processi.
+**Backend**<br>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-Il mio lavoro è focalizzato soprattutto su sistemi che portano l'AI in produzione: sistemi conversazionali e agentici, pipeline di retrieval, componenti di computer vision, modelli predittivi e l'infrastruttura backend e dati su cui si appoggiano. Nella pratica significa lavorare su architettura, servizi backend, integrazione dei dati, infrastruttura dati e deployment, utilizzando tecnologie come Python, FastAPI, LangChain/LangGraph, MongoDB, Qdrant, Neo4j e Docker, scelte di volta in volta in funzione del problema.
+**AI & LLMs**<br>
+![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square)
+![Anthropic API](https://img.shields.io/badge/Anthropic%20API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF?style=flat-square)
 
-Mi interesso anche di modelli locali e open-weight, esplorando i trade-off tra context length, latenza, costo di inferenza, quantizzazione e privacy, e i casi in cui conviene puntare al self-hosting.
+**Machine learning & data**<br>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-Uso Claude Code e Codex ogni giorno per velocizzare implementazione, refactoring, esplorazione della codebase e attività di sviluppo ripetitive, dentro workflow spec-driven in cui architettura, requisiti e test strategy restano sotto la mia diretta responsabilità. L'AI supporta e accelera l'implementazione, mentre le decisioni progettuali e la qualità del software restano mie.
+**Databases**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white)
 
-I repository qui raccolti completano la mia esperienza professionale mostrando le fondamenta tecniche sviluppate durante il percorso accademico, tra Information Retrieval, Deep Learning, sistemi graph-based, High-Performance Computing e programmazione GPU in C++/CUDA.
+**AI-assisted development**<br>
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square)
+![OpenSpec](https://img.shields.io/badge/OpenSpec-555555?style=flat-square)
 
-Laurea magistrale in Artificial Intelligence and Data Engineering, Università di Pisa (110/110 e lode).  
-Laurea triennale in Ingegneria Elettronica e Informatica, Università degli Studi di Ferrara (110/110 e lode).
+**Also worked with**<br>
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
----
+### Off the clock
 
-### Featured work
+🏴‍☠️ *Pirates of the Caribbean* fan. The Pirate's Code is more what you'd call guidelines than actual rules. My specs are actual rules.<br>
+🕷️ Team Spider-Man. With great power comes great responsibility, which is also my rule for giving AI agents write access.
 
-- **Artillery Duel**: Python project developed through a spec-driven workflow, with automated tests, procedural terrain, physics simulation, and a heuristic opponent.
-- **Computer Architecture**: CPU and GPU performance optimization projects using C++, CUDA, profiling, and cuBLAS.
-- **MS MARCO Information Retrieval**: Information Retrieval system with inverted indexing, BM25, TF-IDF, evaluation metrics, and statistical comparison.
-- **Multi-Task Learning with PyTorch**: Comparison of Single-Task Learning, Hard Parameter Sharing, and Multi-Task approaches based on Cross-Stitch Networks.
-- **GastronoMate**: Full-stack social platform built with Spring Boot, MongoDB, and Neo4j, with asynchronous synchronization and graph-based relationships.
+### Education
 
-### Progetti in evidenza
-
-- **Artillery Duel**: progetto Python sviluppato attraverso un workflow spec-driven, con test automatizzati, terreno procedurale, simulazione fisica e un avversario basato su euristiche.
-- **Computer Architecture**: progetti di ottimizzazione delle prestazioni su CPU e GPU con C++, CUDA, profiling e cuBLAS.
-- **MS MARCO Information Retrieval**: sistema di Information Retrieval con indicizzazione inversa, BM25, TF-IDF, metriche di valutazione e confronto statistico.
-- **Multi-Task Learning with PyTorch**: confronto tra Single-Task Learning, Hard Parameter Sharing e approcci Multi-Task basati su Cross-Stitch Networks.
-- **GastronoMate**: piattaforma social full-stack sviluppata con Spring Boot, MongoDB e Neo4j, con sincronizzazione asincrona e relazioni graph-based.
-
----
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Gwme13&show_icons=true&theme=default&hide_title=true&hide_border=true)
-
-![Top languages](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Gwme13&layout=compact&hide_border=true)
-
-</div>
-
----
-
-<sub>
-Python · FastAPI · AI Agents · RAG / GraphRAG · Information Retrieval · LLM Tool Use · MCP · Computer Vision · PyTorch · LangChain / LangGraph · Qdrant · Neo4j · MongoDB · MySQL · Docker · C++ · CUDA · Ollama · vLLM · Claude Code · Codex · OpenSpec
-</sub>
+- **MSc** Artificial Intelligence & Data Engineering, University of Pisa (110/110 cum laude)
+- **BSc** Electronic & Computer Engineering, University of Ferrara (110/110 cum laude)
