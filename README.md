@@ -19,7 +19,7 @@ I build **production AI systems**, including LLM agents, RAG pipelines and ML mo
 
 ### How I build with AI
 
-> *The problem is not the problem. Savvy?* 🏴‍☠️
+> _The problem is not the problem. Savvy?_ 🏴‍☠️
 
 Using AI to write code isn't the problem. The problem is **how** you use it. Agents can write code fast, but they can't tell you whether it's the right code. That's why I follow a **spec-driven** approach: spec first, code second. Before any code is written, I define requirements, design decisions and acceptance criteria. That spec becomes the contract.
 
@@ -89,8 +89,8 @@ Tools change, but the method stays the same.
 
 ### Off the clock
 
-🏴‍☠️ *Pirates of the Caribbean* fan. The Pirate's Code is more what you'd call guidelines than actual rules. My specs are actual rules.<br>
-🕷️ Team Spider-Man. With great power comes great responsibility, which is also my rule for giving AI agents write access.
+🏴‍☠️ _Pirates of the Caribbean_ fan. The Pirate's Code is more what you'd call guidelines than actual rules. My specs are actual rules.<br>
+🕷️ _Spider-Man_ fan. With great power comes great responsibility, which is also my rule for giving AI agents write access.
 
 ### Education
 
